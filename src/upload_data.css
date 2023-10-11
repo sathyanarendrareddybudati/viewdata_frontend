@@ -1,0 +1,24 @@
+.upload-form {
+    width: 300px; 
+    margin: 0 auto;
+    padding: 400px 950px 0px 0px;
+}
+
+.upload-form input[type="text"] {
+    width: calc(54% - 10px);
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.upload-form button {
+    width: calc(30% - 10px);
+    display: inline-block;
+}
+
+.dataset-list {
+    padding-left: 100px; 
+}
+
+.dataset-list input {
+    display: block;
+}
